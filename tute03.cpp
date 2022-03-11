@@ -16,7 +16,7 @@ int main()
     cout << "Enter a Number : ";
     cin >> no;
 
-    fac = 1;
+    fac=1;
     for (r=no; r >= 1; r--) {
         fac = fac * r;
     }
